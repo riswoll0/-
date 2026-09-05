@@ -1,0 +1,9 @@
+{
+  "name": "tg-netlify-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Телеграм-бот (личный кабинет персонала) на Netlify Functions",
+  "dependencies": {
+    "@netlify/blobs": "^7.4.1"
+  }
+}
